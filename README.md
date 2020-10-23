@@ -26,8 +26,8 @@ First, have [GoFinances Back-End API](https://github.com/viniciusfer01/goFinance
 
 Then,
 
-1. `git clone https://github.com/viniciusfer01/goFinances-back-end.git`
-2. `cd goFinances-back-end`
+1. `git clone https://github.com/viniciusfer01/goFinances.git`
+2. `cd goFinances`
 3. `yarn`
 4. `yarn start`
 
